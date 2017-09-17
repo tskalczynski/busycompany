@@ -1378,7 +1378,7 @@ pre {
 .cid-qvsPo22R8B {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-qvsPo22R8B .mbr-section-subtitle {
   color: #767676;
@@ -1572,7 +1572,7 @@ pre {
 .cid-qvt0qsaaWK {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-qvt0qsaaWK .mbr-section-subtitle {
   color: #767676;
@@ -1664,6 +1664,81 @@ pre {
 @media (min-width: 769px) {
   .cid-qvt0qsaaWK .mbr-subscribe > * {
     margin: 0 0.5rem;
+  }
+}
+.cid-qvtgWaOL4J {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qvtgWaOL4J .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qvtgWaOL4J .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #767676;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #767676;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .3s;
+}
+.cid-qvtgWaOL4J .nav-tabs .nav-link:hover {
+  background-color: #149dcc;
+}
+.cid-qvtgWaOL4J .nav-tabs .nav-link:focus {
+  box-shadow: none;
+  background-color: #149dcc;
+}
+.cid-qvtgWaOL4J .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #149dcc;
+}
+.cid-qvtgWaOL4J .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-qvtgWaOL4J .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qvtgWaOL4J p {
+  color: #767676;
+}
+.cid-qvtgWaOL4J .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-qvtgWaOL4J .mbr-figure {
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-right: 4rem;
+  padding-right: 0;
+  padding-left: 4rem;
+}
+.cid-qvtgWaOL4J .mbr-text {
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-qvtgWaOL4J .media-container-row {
+    -webkit-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+  .cid-qvtgWaOL4J .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 2rem;
+    padding-bottom: 0;
+    padding-top: 2rem;
   }
 }
 .cid-qu69gMPbzV {
